@@ -306,15 +306,19 @@ I, VR, VL, son ondas sinusoidales
 
 
 
-
-
 # Video Explicativo 
 
 https://www.youtube.com/watch?v=4O-yzZYfXdI
 
 # Conclusiones 
 
+El valor instantáneo de la onda seno en cualquier punto es igual a la distancia vertical desde la punta del fasor hasta el eje horizontal.
 
+Los fasores proporcionan un método gráfico para representar cantidades que tienen tanto magnitud como dirección (posición angular). Los fasores son especialmente útiles para representar ondas seno en función de su magnitud y su ángulo de fase, y también para analizar los circuitos reactivos
+
+Se puede concluir que la reactancia inductiva es más grande que la capacitiva, el circuito se muestra inductivo y la corriente se retrasa al voltaje aplicado. Cuando la reactancia capacitiva es más grande, el circuito se muestra capacitivo y la corriente se adelanta al voltaje aplicado
+
+Cinco formas de expresar el valor de una onda seno en función de su magnitud de voltaje o de su magnitud de corriente son los valores instantáneos pico, pico a pico, rms, y promedio.
 
 # Bibliografia 
 
