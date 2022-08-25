@@ -24,7 +24,17 @@ Determinar las relaciones de fase entre formas de onda con fasores
 
 # Marco Teorico 
 
+![imagen](https://user-images.githubusercontent.com/105812540/186706519-914ba9a7-966f-425e-86d1-58f7e1bab068.png)
 
+![imagen](https://user-images.githubusercontent.com/105812540/186706549-72b0497a-a98b-461f-a57c-d9692035c586.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/186706583-31f5b564-1e9f-4676-89fd-811e9847ddfc.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/186706613-bc3aa0ef-8ae2-4e0b-9fd5-25ebaeda3683.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/186706635-02a30e62-0d6b-46a6-9cd9-7d1d493523cf.png)
+
+![imagen](https://user-images.githubusercontent.com/105812540/186706662-3a425e6a-0d4c-42b4-9c68-b9fd933631bc.png)
 
 
 # Desarrollo de ejercicios 
